@@ -8,3 +8,7 @@ Kate Mykhaylova
 
 Polina Semenova I have made games in classes for homeowork assignments. Reading, note taking, talking to people. Keeping a todo list, writing down notes, separating notes of classes into different folders.
 
+Name: Michael Moore </br>
+it's about comuters, programming, and the base logic that makes computers work. </br>
+Take notes, ask questions, use the internet. </br>
+Use folders, color code, and keep things modular. </br>
